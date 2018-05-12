@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41817
     wikipedia: http://en.wikipedia.org/wiki/Charles_Creighton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42686#A-History-of-Epidemics-in-Britain--Volume-I-of-II-from-A.D.-664-to-the-Extinction-of-Plague
 gutenberg_issued: '2013-05-11'
 gutenberg_type: Text
 identifiers:
